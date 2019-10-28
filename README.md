@@ -11,8 +11,8 @@ Samsung NVMe ssd ( dont remember the exact model)(m.2 working)
 Great starter hackintosh for college students, sub 400 dollar build but more powerful than the cheapest mac mini :)
 
 Working:
-HD audio
-iMessage, iCloud, Facetime, app store, xcode .. etc all apple features
+  HD audio
+  iMessage, iCloud, Facetime, app store, xcode .. etc all apple features
 HDMI audio
 UHD 630 Graphics
 Ethernet
